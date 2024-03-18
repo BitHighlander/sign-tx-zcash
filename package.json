@@ -1,0 +1,13 @@
+{
+  "name": "sign-tx-zcash",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ts-node test.ts"
+  },
+  "dependencies": {
+    "bitcoinjs-lib": "^5.2.0",
+    "coininfo": "^5.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.0.0"
+  }
+}
